@@ -1,2 +1,2 @@
 # python-safe-notes
-protecting the notes using the encryption alogrithm
+protecting the data using the encryption alogrithm
